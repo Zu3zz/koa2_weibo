@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4ba7141-19cf-44f1-948d-74df6bac3666" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/views/index.ejs" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" root2="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1VF9Rn18w43FScysYc7dGTI52HH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ba7141-19cf-44f1-948d-74df6bac3666" name="Default Changelist" comment="" />
+      <created>1576837970137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576837970137</updated>
+      <workItem from="1576837973980" duration="190000" />
+      <workItem from="1576838176809" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2290" y="315" key="#Libraries" timestamp="1576838373798">
+      <screen x="1680" y="-171" width="2560" height="1417" />
+    </state>
+    <state x="2290" y="315" key="#Libraries/1680.-171.2560.1417/0.23.1680.1027@1680.-171.2560.1417" timestamp="1576838373798" />
+    <state x="2428" y="436" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1576838373104">
+      <screen x="1680" y="-171" width="2560" height="1417" />
+    </state>
+    <state x="2428" y="436" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/1680.-171.2560.1417/0.23.1680.1027@1680.-171.2560.1417" timestamp="1576838373104" />
+    <state x="2255" y="486" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576837981638">
+      <screen x="1680" y="-171" width="2560" height="1417" />
+    </state>
+    <state x="2255" y="486" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1680.-171.2560.1417/0.23.1680.1027@1680.-171.2560.1417" timestamp="1576837981637" />
+  </component>
+</project>
