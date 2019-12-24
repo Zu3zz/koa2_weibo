@@ -14,7 +14,7 @@ router.get('/json', async (ctx, next) => {
 })
 
 router.get('/profile/:userName', async (ctx, next) => {
-  const {userName} = ctx.params;
+  const {userName} = ctx.params
   ctx.body = {
     title: 'this is a profile page',
     userName
@@ -22,7 +22,7 @@ router.get('/profile/:userName', async (ctx, next) => {
 })
 
 router.get('/loadMore/:userName/:pageIndex', async (ctx, next) => {
-  const {userName, pageIndex} = ctx.params;
+  const {userName, pageIndex} = ctx.params
   ctx.body = {
     title: 'this is a loadMore page',
     userName,

@@ -2,26 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4ba7141-19cf-44f1-948d-74df6bac3666" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/atMe.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/layout/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/layout/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/login.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/profile.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/register.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/setting.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/square.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/widgets/user-info.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/3zz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conf/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/seq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/sync.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/env.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/which" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/node_modules/is-glob/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/node_modules/is-glob/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/node_modules/is-glob/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/node_modules/is-glob/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-key/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-key/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-key/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-key/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-key/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-key/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-key/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-key/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-command/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-command/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-command/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-command/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-command/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-command/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-command/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-command/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-regex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-regex/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-regex/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-regex/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-regex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/shebang-regex/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/shebang-regex/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-json-comments/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-json-comments/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-json-comments/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-json-comments/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-json-comments/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/which/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/which/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/which/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/which/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/which/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/which/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/which/which.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/which/which.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/error.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +95,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,7 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1576837970137</updated>
       <workItem from="1576837973980" duration="190000" />
-      <workItem from="1576838176809" duration="3073000" />
+      <workItem from="1576838176809" duration="3864000" />
+      <workItem from="1577172918870" duration="2323000" />
     </task>
     <servers />
   </component>
@@ -83,9 +135,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2290" y="315" key="#Libraries" timestamp="1576846276290">
-      <screen x="1680" y="-171" width="2560" height="1417" />
+    <state x="-1950" y="458" key="#Libraries" timestamp="1577177116583">
+      <screen x="-2560" y="-28" width="2560" height="1417" />
     </state>
+    <state x="-1950" y="458" key="#Libraries/0.23.1680.1027/-2560.-28.2560.1417@-2560.-28.2560.1417" timestamp="1577177116583" />
     <state x="2290" y="315" key="#Libraries/1680.-171.2560.1417/0.23.1680.1027@1680.-171.2560.1417" timestamp="1576846276290" />
     <state x="2428" y="436" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1576838373104">
       <screen x="1680" y="-171" width="2560" height="1417" />
@@ -95,9 +148,10 @@
       <screen x="1680" y="-171" width="2560" height="1417" />
     </state>
     <state x="2255" y="486" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1680.-171.2560.1417/0.23.1680.1027@1680.-171.2560.1417" timestamp="1576837981637" />
-    <state x="2199" y="288" key="SettingsEditor" timestamp="1576839407117">
-      <screen x="1680" y="-171" width="2560" height="1417" />
+    <state x="-2041" y="431" key="SettingsEditor" timestamp="1577173171568">
+      <screen x="-2560" y="-28" width="2560" height="1417" />
     </state>
+    <state x="-2041" y="431" key="SettingsEditor/0.23.1680.1027/-2560.-28.2560.1417@-2560.-28.2560.1417" timestamp="1577173171568" />
     <state x="2199" y="288" key="SettingsEditor/1680.-171.2560.1417/0.23.1680.1027@1680.-171.2560.1417" timestamp="1576839407117" />
   </component>
 </project>
